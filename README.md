@@ -1,1 +1,1 @@
-# psw-tourism-fe
+# tourism-fe
